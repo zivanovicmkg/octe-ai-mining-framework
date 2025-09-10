@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17093170.svg)](https://doi.org/10.5281/zenodo.17093170)
 # octe-ai-mining-framework
 
 This repository provides a standardized and reproducible framework for literature mining, citation analysis, and visualization in the context of AI, scaffolds, computational modeling, and OCTE.
